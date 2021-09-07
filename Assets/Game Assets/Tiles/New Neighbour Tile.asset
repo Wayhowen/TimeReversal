@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: New Neighbour Tile
+  m_EditorClassIdentifier: Assembly-CSharp::NeighbourTile
+  LeftTile: {fileID: 21300000, guid: bb35af95735851440927571ef230221b, type: 3}
+  MidTile: {fileID: 21300002, guid: bb35af95735851440927571ef230221b, type: 3}
+  RightTile: {fileID: 21300004, guid: bb35af95735851440927571ef230221b, type: 3}
+  LoneTile: {fileID: 21300026, guid: bb35af95735851440927571ef230221b, type: 3}
+  GroundMiddleTile: {fileID: 21300012, guid: bb35af95735851440927571ef230221b, type: 3}
+  GroundLeftTile: {fileID: 21300016, guid: bb35af95735851440927571ef230221b, type: 3}
+  GroundRightTile: {fileID: 21300014, guid: bb35af95735851440927571ef230221b, type: 3}
+  GroundBLTile: {fileID: 21300010, guid: bb35af95735851440927571ef230221b, type: 3}
+  GroundBMTile: {fileID: 21300008, guid: bb35af95735851440927571ef230221b, type: 3}
+  GroundBRTile: {fileID: 21300006, guid: bb35af95735851440927571ef230221b, type: 3}
+  LeftSteepHill: {fileID: 0}
+  LeftSteepHillEnding: {fileID: 0}
+  RightSteepHill: {fileID: 0}
+  RightSteepHillEnding: {fileID: 0}
+  RightSteepHillStart: {fileID: 0}
+  RightSteepHillBottom: {fileID: 0}
